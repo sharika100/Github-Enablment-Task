@@ -119,7 +119,7 @@ You’re a superstar! You just learned the basic Git & Github workflow! 🥳 
 
 Now if you go to the pull requests tab in GTech µLearn repo, you’ll be able to see your pull request. Open it and copy your pull request URL.
 
-1. Submit the link in #task-dropbox channel with the hashtag, `#ge-git-github`
+1. Submit the link in #task-dropbox channel with the hashtag, `#ge-intro-to-github`
 2. With your submission, feel free to drop in a small note about your experience with doing this assignment. 😄  We’d be delighted to read it.
 
 ### Resources
@@ -127,3 +127,5 @@ Now if you go to the pull requests tab in GTech µLearn repo, you’ll be able t
 Refer to the session recording here → [https://www.youtube.com/watch?v=Bg2U_Cgp3K0&ab_channel=GTechµLearn](https://www.youtube.com/watch?v=Bg2U_Cgp3K0&ab_channel=GTech%C2%B5Learn)
 
 Google is your best friend. You can refer to other simple Git and GitHub videos in YouTube.
+- Name: Saniya Manoj
+- Task: Completed GitHub Basics
